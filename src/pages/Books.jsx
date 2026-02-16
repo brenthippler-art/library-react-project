@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Book from "../components/ui/Book";
 import { Helmet } from "react-helmet";
 

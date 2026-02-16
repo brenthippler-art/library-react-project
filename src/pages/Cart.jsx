@@ -1,4 +1,3 @@
-import React from "react";
 import EmptyCart from "../assets/empty_cart.svg";
 import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet";

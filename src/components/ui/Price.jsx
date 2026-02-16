@@ -1,5 +1,3 @@
-import React from "react";
-
 const Price = ({ salePrice, originalPrice }) => {
   return (
     <div className="book__price">
